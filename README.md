@@ -33,8 +33,12 @@ Open the Project:
 
 1. Launch Unreal Engine 5.2.1.
 3. Open the project by navigating to the cloned directory and selecting the .uproject file.
-3. Build and Play:
+3. Build and Play
+
 Team
+
 Lead Developer: Andres Bonilla
+
 Lead 3D Artist: Sofya Antonova
+
 Project Manager: Carlo Parente
